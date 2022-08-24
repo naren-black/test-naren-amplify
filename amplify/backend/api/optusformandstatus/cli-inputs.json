@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "paths": {
+    "/form": {
+      "name": "/form",
+      "lambdaFunction": "optusFormStatus",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/status": {
+      "name": "/status",
+      "lambdaFunction": "optusFormStatus",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

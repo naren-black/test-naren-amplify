@@ -1,0 +1,6 @@
+[
+  {
+    "Action": ["sns:*"],
+    "Resource": ["arn:aws:sns:ap-southeast-2:697037784263:optus-form-and-status"]
+  }
+]
